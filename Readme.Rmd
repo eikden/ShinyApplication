@@ -36,7 +36,7 @@ Your presentation must satisfy the following
 - It must contained some embedded R code that gets run when slidifying the document
 
 ## URLs
-Files for the presentation are available on the GitHub: https://github.com/eikden/dataproducts
+Files for the presentation are available on the GitHub: https://github.com/eikden/ShinyApplication
 
 The app developed for the first part of the assignment is available at: https://eikden.shinyapps.io/MTCARS_Interaction_Demo/
 
